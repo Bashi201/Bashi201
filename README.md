@@ -42,8 +42,11 @@
   </table>
 </div>
 
+---
 
 <div align="center">
+
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
 <table>
@@ -51,6 +54,10 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
       <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
+      <br><sub><b>C#</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
@@ -74,6 +81,10 @@
 ### 🎨 Frontend Development
 <table>
   <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+      <br><sub><b>React</b></sub>
+    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
       <br><sub><b>HTML5</b></sub>
@@ -109,6 +120,18 @@
       <br><sub><b>VS Code</b></sub>
     </td>
     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50" alt="Visual Studio"/>
+      <br><sub><b>Visual Studio</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" alt="Eclipse"/>
+      <br><sub><b>Eclipse</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="PyCharm"/>
+      <br><sub><b>PyCharm</b></sub>
+    </td>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Photoshop"/>
       <br><sub><b>Photoshop</b></sub>
     </td>
@@ -118,6 +141,8 @@
 </div>
 
 <br>
+
+---
 
 <br>
 
@@ -162,20 +187,20 @@
 <br>
 
 <div align="center">
-  <h3>🎯 Current Goals</h3>
+  <h2>🎯 Current Goals</h2>
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀_Master-Advanced%20Java-2E86AB?style=flat-square&labelColor=1a1a1a"/>
+        <img src="https://img.shields.io/badge/✅_Master-Advanced%20Java-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌐_Explore-Modern%20Frameworks-2E86AB?style=flat-square&labelColor=1a1a1a"/>
+        <img src="https://img.shields.io/badge/🌐_Explore-Modern%20Frameworks-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📚_Learn-System%20Design-2E86AB?style=flat-square&labelColor=1a1a1a"/>
+        <img src="https://img.shields.io/badge/📚_Learn-System%20Design-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🤝_Contribute-Open%20Source-2E86AB?style=flat-square&labelColor=1a1a1a"/>
+        <img src="https://img.shields.io/badge/🤝_Contribute-Open%20Source-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
       </td>
     </tr>
   </table>
