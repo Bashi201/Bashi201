@@ -1,231 +1,221 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Bhashitha%20Wanasinghe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%20Undergraduate%20%7C%20NSBM%20Green%20University&descAlignY=51&descAlign=50&descSize=18" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+my+Professional+Portfolio+%F0%9F%91%8B;Crafting+Elegant+Solutions+with+Code+%F0%9F%8E%AF;Passionate+about+Innovation+%26+Technology+%F0%9F%9A%80;" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhashitha%20Wanasinghe&fontSize=48&fontColor=ffffff&fontAlignY=50&desc=Software%20Engineer%20Intern%20%7C%20BSc%20(Hons)%20Software%20Engineering%20%7C%20NSBM&descAlignY=68&descSize=16&descColor=a78bfa" width="100%"/>
+
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
-
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td width="55%" valign="top">
-        
-### 🎯 Professional Overview
-        
-```yaml
-👤 Name: Bhashitha Wanasinghe
-📍 Location: Kandy, Sri Lanka
-🎓 Education: BSc (Hons) in Software Engineering at NSBM Green University 
-💼 Role: Undergraduate Software Engineering & Web Developer
-🔭 Current Focus: Object-Oriented Programming with Java
-🌱 Learning: Advanced Web Technologies & Software Architecture
-💡 Interests: ["Web Development", "Software Engineering", "UI/UX Design"]
-🎯 Goal: Building scalable and efficient software solutions
-📧 Contact: bashithawanasinghe111@gmail.com
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Full-Stack+Developer+%F0%9F%9A%80;API+Integration+Specialist+%F0%9F%94%97;Technical+Trainer+%26+Mentor+%F0%9F%8E%93;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<br>
+
+---
+
+## 🧠 About Me
+
+```typescript
+const bhashitha = {
+  location   : "Kandy, Sri Lanka 🇱🇰",
+  education  : "BSc (Hons) Software Engineering @ NSBM Green University",
+  gpa        : "3.6 / 4.0",
+  role       : "Software Engineer Intern @ APPLANTICS (Pvt) Ltd",
+  experience : ["Full-Stack Development", "API Integration & Testing", "IT Training & Mentoring"],
+  techFocus  : ["RESTful APIs", "Spring Boot", "React", "Laravel", "Flutter"],
+  currentlyBuilding : "Production-grade POS & Management Systems",
+  funFact    : "I teach IT to police officers by day 👮 and ship code by night 🌙",
+  contact    : "bashithawanasinghe111@gmail.com"
+};
 ```
 
 <br>
 
-### 🚀 What Drives Me
-- **Innovation**: Constantly exploring new technologies and methodologies
-- **Quality**: Writing clean, maintainable, and efficient code
-- **Growth**: Continuous learning and professional development
-- **Collaboration**: Building meaningful connections in the tech community
+---
 
-        
-<br><br>
-  </table>
-</div>
+## 💼 Work Experience
+
+<table width="100%">
+  <tr>
+    <td width="8%" align="center">⚙️</td>
+    <td>
+      <strong>Software Engineer Intern — APPLANTICS (Pvt) Ltd, Narammala</strong><br/>
+      <sub>2026 – Present</sub><br/>
+      Integrating and configuring software modules, validating REST APIs with Postman (JSON/XML), diagnosing distributed system issues, and creating technical docs including integration guides & FAQs.
+    </td>
+  </tr>
+  <tr>
+    <td width="8%" align="center">🎓</td>
+    <td>
+      <strong>External IT Lecturer — Police In-Service Training Programme, Kurunegala</strong><br/>
+      <sub>2025 – Present</sub><br/>
+      Delivering structured IT training to non-technical personnel; preparing tailored instructional materials and documentation for diverse audiences.
+    </td>
+  </tr>
+  <tr>
+    <td width="8%" align="center">🖥️</td>
+    <td>
+      <strong>IT Assistant — Midland Riora Traders, Kandy</strong><br/>
+      <sub>2020 – 2021</sub><br/>
+      First-line technical support, hardware/software troubleshooting, data record management and system maintenance.
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
+## 🚀 Featured Projects
+
+<details>
+<summary><b>📚 Bookshop POS & Library Management System</b> — PHP 8.2 · Laravel 12 · React 18 · Inertia.js · Tailwind · MySQL</summary>
+<br>
+
+- Full-stack SPA merging a retail POS terminal with a library circulation system — real-time inventory, loan management & overdue fine automation
+- Advanced RBAC across Admin / Librarian / Cashier roles with full data integrity
+- Interactive analytics dashboards (Recharts) — lending revenue, late fines, top-earning books, retail sales
+- Dynamic PDF receipt generation via jsPDF + customer loyalty tracking
+
+</details>
+
+<details>
+<summary><b>📱 Mobile POS System</b> — Java 17 · Spring Boot 3.2 · Flutter/Dart · MySQL · JWT · BLE/ESC-POS</summary>
+<br>
+
+- 60+ RESTful API endpoints in Spring Boot; Flutter frontend supporting Android, iOS & Desktop
+- Multi-tenant architecture with complete org-level data isolation, JWT auth, 4-tier RBAC
+- Bluetooth thermal printer integration via ESC/POS in Flutter — real-time receipt printing & device scanning
+- Complex workflows: multi-item checkout, multi-stage refund approval (Pending → Approved → Completed)
+- Performance optimised: HikariCP connection pooling, batch processing, pagination
+
+</details>
+
+<details>
+<summary><b>🔨 Auction Management System</b> — ASP.NET Core · C# · React.js · SQL Server · WebSockets · JWT</summary>
+<br>
+
+- Real-time live bidding with WebSockets; synchronisation issue resolution across client/server
+- JWT auth + role-based access control with end-to-end security validation
+- Full system architecture docs and API usage guides
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Platform</b> — Next.js · TypeScript · Express.js · MySQL · JWT</summary>
+<br>
+
+- RESTful APIs for product catalog, shopping cart, and order management — tested via Postman
+- Cross-service integration debugging ensuring consistent frontend ↔ backend data flows
+- Documented API contracts, endpoint specs, and integration flows
+
+</details>
+
+<details>
+<summary><b>🏥 Hospital Management System</b> — Java · Servlets · JSP · MySQL</summary>
+<br>
+
+- Multi-role login system with appointment scheduling and patient record management
+- End-to-end data flow testing across all system modules
+
+</details>
+
+<br>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend & APIs
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+<br>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bashi201&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=c4c4e0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashi201&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4c4e0"/>
+</div>
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#"/>
-      <br><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-      <br><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/>
-      <br><sub><b>C</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
-      <br><sub><b>C++</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend Development
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
-      <br><sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
-      <br><sub><b>Tailwind CSS</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools & Technologies
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
-      <br><sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50" alt="Visual Studio"/>
-      <br><sub><b>Visual Studio</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" alt="Eclipse"/>
-      <br><sub><b>Eclipse</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="PyCharm"/>
-      <br><sub><b>PyCharm</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Photoshop"/>
-      <br><sub><b>Photoshop</b></sub>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashi201&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 ---
 
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/bhashitha-wanasinghe">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://bhashithawanasinghe.me">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=firefox&logoColor=a78bfa"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bhashitha-wanasinghe-5273aa395">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:bashithawanasinghe111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/bashi2001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  &nbsp;
+  <a href="https://github.com/Bashi201">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://fb.com/bhashitha%20wanasinghe">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  &nbsp;
+  <a href="https://www.instagram.com/_signore_____?igsh=MW92OTR3dHZmMTF1OA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1JiphJRvEs/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Professional Philosophy
-
 <div align="center">
-  <table border="0" cellpadding="15">
-    <tr>
-      <td width="50%" align="center">
-        <h3>💡 Daily Inspiration</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Programming Quote"/>
-      </td>
-      <td width="50%" align="center">
-        <h3>📊 Coding Activity</h3>
-        <img src="https://wakatime.com/badge/user/bashi2001.svg?style=for-the-badge" alt="WakaTime"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Focus-Object--Oriented%20Programming-2E86AB?style=for-the-badge&labelColor=1a1a1a" alt="Current Focus"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br>
-
-<div align="center">
-  <h2>🎯 Current Goals</h2>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/✅_Master-Advanced%20Java-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🌐_Explore-Modern%20Frameworks-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/📚_Learn-System%20Design-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🤝_Contribute-Open%20Source-2E86AB?style=for-the-badge&labelColor=1a1a1a"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  
-### 🌟 *"The only way to do great work is to love what you do."* - Steve Jobs
-
-<br>
-
-**Thank you for visiting my profile! I'm always excited to connect with fellow developers and explore new opportunities for collaboration.**
-
-<br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=blinking" width="100%"/>
 </div>
