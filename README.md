@@ -121,6 +121,33 @@ const bhashitha = {
 
 </details>
 
+<details>
+<summary><b>🧺 LaundryMart</b> — React 18 · Vite · Spring Boot · JWT · REST API</summary>
+<br>
+
+**Frontend**
+- Sleek dark-themed SPA with React 18 + Vite for lightning-fast performance
+- Role-specific dashboards for Admin, Customer, Employee & Rider — tailored UX per user type
+- JWT-based auth with protected routes; fully responsive across desktop, tablet & mobile
+- Real-time updates with seamless Spring Boot backend integration
+
+**Backend**
+- Complete order lifecycle API: create → assign → deliver with status tracking
+- Stateless JWT authentication + multi-role RBAC (Admin, Customer, Employee, Rider)
+- Clean RESTful endpoint design with layered architecture for scalability
+- CORS-enabled and ready for React/Vue frontend integration
+
+</details>
+
+<details>
+<summary><b>🏋️ GYM POS Management System</b> — Laravel · React · MySQL</summary>
+<br>
+
+- Full-stack gym point-of-sale and management system built with Laravel and React
+- Membership management, billing, and sales tracking within a unified POS engine
+
+</details>
+
 <br>
 
 ---
@@ -217,5 +244,5 @@ const bhashitha = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=blinking" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=60&section=footer" width="100%"/>
 </div>
