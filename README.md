@@ -42,7 +42,7 @@ const bhashitha = {
     <td>
       <strong>Software Engineer Intern — APPLANTICS (Pvt) Ltd, Narammala</strong><br/>
       <sub>2026 – Present</sub><br/>
-      Integrating and configuring software modules, validating REST APIs with Postman (JSON/XML), diagnosing distributed system issues, and creating technical docs including integration guides & FAQs.
+      Developing and integrating software features end-to-end, conducting API validation and data flow testing, collaborating with dev & QA teams to resolve system issues, and maintaining technical knowledge bases.
     </td>
   </tr>
   <tr>
